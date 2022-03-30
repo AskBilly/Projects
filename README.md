@@ -1,0 +1,1 @@
+This application can be used to send email with attachment 
